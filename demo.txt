@@ -1,1 +1,2 @@
 demo text file for test
+Added a new line to the file directly in the server
