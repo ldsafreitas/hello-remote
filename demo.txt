@@ -1,2 +1,3 @@
 demo text file for test
 Added a new line to the file directly in the server
+This third line was added in the local copy.
